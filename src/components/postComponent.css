@@ -1,0 +1,7 @@
+.borderPurpleStyle{
+  border-color:purple;
+  border-style:solid;
+  padding: 20px;
+  width: 350px;
+  margin:5px;
+}

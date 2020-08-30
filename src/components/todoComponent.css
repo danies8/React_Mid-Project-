@@ -1,0 +1,18 @@
+.borderPurpleStyle{
+  border-color:purple;
+  border-style:solid;
+  padding: 20px;
+  width: 350px;
+  margin:5px;
+}
+
+.markCompletedVisibleStyle{
+  visibility:visible;
+  background-color: yellow;
+  font-weight: bold;
+  margin-left: 110px;
+}
+
+.markCompletedHiddenStyle{
+  display:none;
+}

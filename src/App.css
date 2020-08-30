@@ -1,0 +1,65 @@
+.borderUsersList{
+  border-radius: 25px;
+  border-style:solid;
+  padding: 20px;
+  width: 400px;
+  border-color:black;
+  margin-left:20px;
+  margin-top:20px;
+  float: left; 
+}
+
+.wrappper{
+  height:auto;
+  width:auto;
+ }
+
+.borderToDosList{
+  float:right;
+  border-radius: 25px;
+  border-style:solid;
+  padding: 20px;
+  width: 400px;
+  border-color:black;
+  margin-right:400px;
+  margin-top:20px; 
+}
+
+.borderToDosAdd{
+  float:right;
+  clear: right;
+  border-radius: 25px;
+  border-style:solid;
+  padding: 20px;
+  width: 400px;
+  border-color:black;
+  margin-right:400px;
+  margin-top:20px; 
+}
+
+.borderPostsList{
+  float:right;
+  clear: right;
+  border-radius: 25px;
+  border-style:solid;
+  padding: 20px;
+  width: 400px;
+  border-color:black;
+  margin-right:400px;
+  margin-top:20px; 
+}
+
+
+.visiblityElementStyle{
+  visibility:visible;
+}
+
+.hiddenElementStyle{
+  display:none;
+}
+
+.yellowButton{
+  background-color: yellow;
+  font-weight: bold;
+}
+
