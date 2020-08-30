@@ -1,3 +1,5 @@
+The excercize file is React_Mid Project 2.pdf located in root.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
